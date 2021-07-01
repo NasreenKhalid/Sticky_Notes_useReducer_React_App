@@ -19,6 +19,8 @@ letter-spacing: 8px;
 .form{
   width:200px;
   height:500px;
+  margin-left:16px;
+  margin-top:12px;
 }
 
 .main-form{
